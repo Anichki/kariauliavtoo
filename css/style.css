@@ -1,0 +1,43 @@
+.nav .container {
+	font-family: Arial;
+	font-size: 22px;
+	text-align: center;
+	display: inline;
+	color: #76B7AD;
+}
+
+ h1 {
+	font-family: Georgia, serif;
+	font-size: 100px;
+	text-align: center;
+	background-color: #848E8C;
+
+}
+
+p {
+	text-align: center;
+	font-size: 45px;
+	color:#848E8C;
+}
+
+.search{
+	color:#477238;
+	font-size: 24px;
+	text-align: right;
+	float: right;
+	margin-bottom: auto;
+}
+
+footer {
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 10px;
+	text-align: right;
+	color:#571513;
+
+}
+
+.row .col-md-3{
+	
+	
+}

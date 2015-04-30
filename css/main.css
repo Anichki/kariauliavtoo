@@ -1,0 +1,42 @@
+/* reset default tag styles */
+body, html, ul {
+	margin: 0px;
+}
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/* end */
+h1, p {
+	text-align: center;	
+}
+nav {
+	float: left;
+	height: 60px;
+	line-height: 60px;
+}
+nav ul li {
+	display: inline-block;
+	list-style: none;
+	font-size: 24px;
+	margin-left: 40px;
+
+}
+.search {
+	float: right;
+	line-height: 60px;
+}
+.search input {
+	padding: 4px 0;
+}
+.image-wrapper {
+	width: 25%;
+	overflow: hidden;
+	float: left;
+}
